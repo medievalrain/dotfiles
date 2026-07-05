@@ -31,6 +31,12 @@ ozon.ru##[data-widget="advVideoBanner"]
 ozon.ru##[data-widget="advBanner"]
 ozon.ru##[data-widget="seasonWidget"]
 ozon.ru##[data-widget="bigPromoCounterNavbar"]
+ozon.ru##[data-widget="webMarketingLabels"]
+ozon.ru##div:has-text(/^Похожие$/)
+ozon.ru##button[data-widget="webOneClickButton"]
+ozon.ru##div[data-widget="bigPromoPDP"]
+ozon.ru##div[data-widget="bannerCarousel"]
+ozon.ru##div[data-widget="webFeedbackForm"]
 
 
 tanstack.com##.md\:pt-12.pt-8
