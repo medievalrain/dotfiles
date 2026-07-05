@@ -55,3 +55,9 @@ perekrestok.ru##section:has(> div > div.job-banner)
 perekrestok.ru##footer
 ||perekrestok.ru/api/customer/*/feedback/form$method=get
 ||ads.x5media.ru^
+
+vkusvill.ru##div#js-header-top-btn
+vkusvill.ru##footer
+vkusvill.ru##div._top-sections-app
+vkusvill.ru##div._top-sections-b2b
+vkusvill.ru##div._top-sections-survey
