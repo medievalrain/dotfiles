@@ -39,6 +39,7 @@ ozon.ru##div[data-widget="bannerCarousel"]
 ozon.ru##div[data-widget="webFeedbackForm"]
 ozon.ru##div[data-widget="webInstallmentPurchase"]
 ozon.ru##div[data-widget="webPricePerStars"]
+ozon.ru##div[data-widget="horizontalMenu"] li:not(:has(a[href*="/category/supermarket-25000/"], a[href*="/fintech/signin"]))
 
 
 tanstack.com##.md\:pt-12.pt-8
