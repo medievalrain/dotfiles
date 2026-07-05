@@ -1,0 +1,40 @@
+rutracker.org###sidebar1
+rutracker.org###bn-top-block
+rutracker.org##td:has(> #bn-top-right)
+rutracker.org###main-nav
+rutracker.org###idx-sidebar2
+rutracker.org###page_footer
+rutracker.org##.bottom_info
+
+youtube.com##[aria-label="Ask"]:upward(yt-button-view-model)
+youtube.com##[aria-label="Share"]:upward(yt-button-view-model)
+youtube.com##[aria-label="Download"]:upward(yt-button-view-model)
+youtube.com##[aria-label="Thanks"]:upward(yt-button-view-model)
+youtube.com##ytd-download-button-renderer
+
+www.youtube.com###country-code
+www.youtube.com##ytd-rich-section-renderer:has(a[href^="/playables"])
+
+||www.tbank.ru/api/front/supreme-beer/event$xhr,important
+tbank.ru##footer
+
+x.com##[aria-label="Premium"]
+x.com##[aria-label="Grok"]
+x.com##[aria-label="Post"]
+x.com##[aria-label="Subscribe to Premium"]
+x.com##[aria-label="Footer"]
+x.com##[aria-label="Grok actions"]
+x.com##[aria-label="Creator Studio"]
+x.com##div:has([data-testid="tweetTextarea_0"][role="textbox"][aria-label="Post text"]):has([data-testid="toolBar"]):upward(div:has(> div > [role="progressbar"][aria-valuemax="100"]))
+
+ozon.ru##[data-widget="advVideoBanner"]
+ozon.ru##[data-widget="advBanner"]
+ozon.ru##[data-widget="seasonWidget"]
+ozon.ru##[data-widget="bigPromoCounterNavbar"]
+
+
+tanstack.com##.md\:pt-12.pt-8
+tanstack.com##div:has(> div:has(> div.group\/rail))
+tanstack.com##a[href^="https://github.com/"][href*="/edit/"]
+tanstack.com##button[title="Ask AI"]
+tanstack.com##div:has(> a[href="/login"])
