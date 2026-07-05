@@ -40,6 +40,7 @@ ozon.ru##div[data-widget="webFeedbackForm"]
 ozon.ru##div[data-widget="webInstallmentPurchase"]
 ozon.ru##div[data-widget="webPricePerStars"]
 ozon.ru##div[data-widget="horizontalMenu"] li:not(:has(a[href*="/category/supermarket-25000/"], a[href*="/fintech/signin"]))
+ozon.ru##section:has(div[title="Скидки недели"], div[title="0% до 140 дней"], div[title="Цена что надо"])
 
 
 tanstack.com##.md\:pt-12.pt-8
