@@ -48,3 +48,10 @@ tanstack.com##div:has(> div:has(> div.group\/rail))
 tanstack.com##a[href^="https://github.com/"][href*="/edit/"]
 tanstack.com##button[title="Ask AI"]
 tanstack.com##div:has(> a[href="/login"])
+
+perekrestok.ru##ec-carousel
+perekrestok.ru##div:has(> div > div.app-banner)
+perekrestok.ru##section:has(> div > div.job-banner)
+perekrestok.ru##footer
+||perekrestok.ru/api/customer/*/feedback/form$method=get
+||ads.x5media.ru^
